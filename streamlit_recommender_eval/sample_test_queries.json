@@ -1,0 +1,17 @@
+[
+  {
+    "query": "Looking for Java developers who can collaborate well and complete the test in 40 mins.",
+    "expected_skills": ["Java", "Communication"],
+    "max_duration": 40
+  },
+  {
+    "query": "Need someone with Python, SQL and JavaScript skills. Total test time under 60 mins.",
+    "expected_skills": ["Python", "SQL", "JavaScript"],
+    "max_duration": 60
+  },
+  {
+    "query": "Hiring analysts with cognitive and personality traits. 45 minutes max.",
+    "expected_skills": ["Cognitive", "Personality"],
+    "max_duration": 45
+  }
+]

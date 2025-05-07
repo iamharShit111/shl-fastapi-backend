@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+fastapi_backend/venv/
+streamlit_recommender_eval/venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignore system and metadata files
+.DS_Store
+.ipynb_checkpoints/
+*.log
+Thumbs.db
+ehthumbs.db
