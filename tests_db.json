@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T1",
+    "name": "Java Developer - Business Skills",
+    "skills": ["Java", "Communication"],
+    "duration": 35
+  },
+  {
+    "id": "T2",
+    "name": "Full Stack Developer Assessment",
+    "skills": ["Python", "SQL", "JavaScript"],
+    "duration": 55
+  },
+  {
+    "id": "T3",
+    "name": "Analyst Cognitive + Personality",
+    "skills": ["Cognitive", "Personality"],
+    "duration": 42
+  },
+  {
+    "id": "T4",
+    "name": "Python Only Test",
+    "skills": ["Python"],
+    "duration": 30
+  },
+  {
+    "id": "T5",
+    "name": "General Coding Assessment",
+    "skills": ["JavaScript", "Problem Solving"],
+    "duration": 45
+  }
+]
